@@ -4,7 +4,7 @@
 
 #### ⚙️ Last Update:
 ```PY
-[+] Cleaning code 
+[+] Cleaning code  
 [+] Full english version
 [+] Mac & Linux versions
 [+] Shares are faster
